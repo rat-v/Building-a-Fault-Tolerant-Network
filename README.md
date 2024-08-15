@@ -1,4 +1,4 @@
-# Building-a-Fault-Tolerant-Network
+# Building-a-Fault-Tolerant-Network 
 
 ## Objective
 The objective of this project is to configure routers connecting two subnets to be fault tolerant using the Hot Standby Router Protocol (HSRP) in Cisco Packet Tracker. One router will always be "active" with the other one being on standby until the first router goes down.
